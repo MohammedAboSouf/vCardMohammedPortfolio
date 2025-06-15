@@ -5,14 +5,13 @@ This is my personal portfolio website built using **HTML**, **CSS**, and **JavaS
 The site displays my personal profile, web development projects, blog articles, testimonials, and contact information.  
 It is fully responsive, mobile-friendly, and deployable via GitHub Pages or any static hosting service.
 
----
+
 
 # Live Preview
 
 You can view the website live here:  
 🔗 **[https://mohammedabosouf.github.io/vCardMohammedPortfolio/](https://mohammedabosouf.github.io/vCardMohammedPortfolio/)**
 
----
 
 # Demo
 
@@ -22,7 +21,6 @@ You can view the website live here:
 
 ![ vCard Contact ](/Contact.png)
 
----
 
 
 # How to Use This Project
@@ -49,7 +47,7 @@ start index.html  # Or open it manually in your browser
 - Works without needing npm, frameworks, or bundlers.  
 - Just plain HTML, CSS, and JS.
 
----
+
 
 # Features
 
@@ -73,8 +71,6 @@ Here are a few features planned for future versions:
 -  Improved performance and loading speed  
 -  Search functionality for blog and projects
 
----
-
 
 # Contact Me 
 
@@ -85,7 +81,7 @@ If you’d like to get in touch with me for collaboration or opportunities:
 -  Location: Maarat Misrin, Idlib, Syria  
 -  GitHub: [@MohammedAboSouf](https://github.com/MohammedAboSouf)
 
----
+
 
 # License
 
