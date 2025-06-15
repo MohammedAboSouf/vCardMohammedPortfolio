@@ -1,5 +1,5 @@
 
-Mohammed AboSouf | Personal Portfolio Website
+# Mohammed AboSouf | Personal Portfolio Website
 
 This is my personal portfolio website built using **HTML**, **CSS**, and **JavaScript**.  
 The site displays my personal profile, web development projects, blog articles, testimonials, and contact information.  
@@ -7,37 +7,37 @@ It is fully responsive, mobile-friendly, and deployable via GitHub Pages or any 
 
 ---
 
-Live Preview
+# Live Preview
 
 You can view the website live here:  
 🔗 **[https://mohammedabosouf.github.io/vCardMohammedPortfolio/](https://mohammedabosouf.github.io/vCardMohammedPortfolio/)**
 
 ---
 
-Demo
+# Demo
 
-[ Aboutme ](/Aboutme.png)
+![ vCard Aboutme ](/Aboutme.png)
 
-[ Resume ](/Resume.png)
+![ vCard Resume ](/Resume.png)
 
-[ Contact ](/Contact.png)
+![ vCard Contact ](/Contact.png)
 
 ---
 
 
-How to Use This Project
+# How to Use This Project
 
 > No customization or development tools are required.
 
 You can run the project locally by simply cloning the repository and opening `index.html` in your browser.
 
- 1 Clone the Repository:
+# 1 Clone the Repository:
 
 ```bash
 git clone https://github.com/MohammedAboSouf/vCardMohammedPortfolio.git
 ```
 
- 2 Open the Project
+# Open the Project
 
 Navigate into the folder and open `index.html`:
 
@@ -51,7 +51,7 @@ start index.html  # Or open it manually in your browser
 
 ---
 
-Features
+# Features
 
 -  Responsive design for mobile, tablet, and desktop
 -  Animated sidebar with toggleable contact info
@@ -62,7 +62,7 @@ Features
 -  Vanilla JavaScript logic (no frameworks)
 -  Modern and clean UI
 
-Future Enhancements
+# Future Enhancements
 
 Here are a few features planned for future versions:
 
@@ -76,7 +76,7 @@ Here are a few features planned for future versions:
 ---
 
 
-Contact Me 
+# Contact Me 
 
 If you’d like to get in touch with me for collaboration or opportunities:
 
@@ -87,12 +87,12 @@ If you’d like to get in touch with me for collaboration or opportunities:
 
 ---
 
-License
+# License
 
 All rights to this project are fully reserved to:
 
 **© Mohammed AboSouf – All Rights Reserved**  
 Unauthorized reproduction or use of any part of this site is prohibited without explicit permission.
 
----
+
 
