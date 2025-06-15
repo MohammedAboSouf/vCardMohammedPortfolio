@@ -1,5 +1,4 @@
-
-#   ###   Mohammed AboSouf | Personal Portfolio Website   ###   #
+Mohammed AboSouf | Personal Portfolio Website
 
 This is my personal portfolio website built using **HTML**, **CSS**, and **JavaScript**.  
 The site displays my personal profile, web development projects, blog articles, testimonials, and contact information.  
@@ -8,7 +7,7 @@ It is fully responsive, mobile-friendly, and deployable via GitHub Pages or any 
 -----------
 
 
-#   ###  Live Preview   ###   #
+###  Live Preview
 
 You can view the website live here:  
 🔗 **[https://mohammedabosouf.github.io/vCardMohammedPortfolio/](https://mohammedabosouf.github.io/vCardMohammedPortfolio/)**
