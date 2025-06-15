@@ -15,11 +15,11 @@ You can view the website live here:
 
 # Demo
 
-![ vCard Aboutme ](/Aboutme.png)
+![ vCard Aboutme ](./Demo/Aboutme.png)
 
-![ vCard Resume ](/Resume.png)
+![ vCard Resume ](./Demo/Resume.png)
 
-![ vCard Contact ](/Contact.png)
+![ vCard Contact ](./Demo/Contact.png)
 
 
 
